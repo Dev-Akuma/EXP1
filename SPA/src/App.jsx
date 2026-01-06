@@ -6,7 +6,7 @@ function App() {
   return (
     <div style={styles.container}>
       <button style={styles.button}>
-        Counter: {count}
+        {count}
       </button>
 
       <button
